@@ -6,9 +6,9 @@ int main()
 {
 	float BMI,weight,height;
 	
-	cout<<"please enter weight(pounds)=";
+	cout<<"please enter weight(pounds)";
 	cin>>weight;
-	cout<<"please enter height(inch.)=";
+	cout<<"please enter height(inch.)";
 	cin>>height;
 	
 	BMI=weight*703/(height*height);
